@@ -1,0 +1,25 @@
+{
+  "short_name": "SKCO Path",
+  "name": "SKCO Path - 탄소 배출량 계산기",
+  "icons": [
+    {
+      "src": "skhu_logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "skhu_logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "skhu_logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
